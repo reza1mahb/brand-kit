@@ -7,7 +7,7 @@ Introducing **Brand Kit**, our visual identity guide.  Inside you'll find all th
 ## Logos
 
 
-|  Logo             |   Wordmark                                                         |
+|  Logo             |   Wordmark  m,                                                       |
 | ----------------- | ------------------------------------------------------------------ |
 |  [![LogoRed](https://user-images.githubusercontent.com/1300064/219575413-d7990d69-1d21-44ef-a2b1-e9c682c79802.svg)](https://www.dropbox.com/s/780z2x5ij2sxzkr/Logo-Red-50.svg?dl=0)  | [![WordmarkRed](https://user-images.githubusercontent.com/1300064/219568209-1f378d40-0606-4e7e-a52e-37aac6d4fdeb.svg)](https://www.dropbox.com/s/nqzlepxsa9f0zix/Optimism-Red-48.svg?dl=0) |
 | [![LogoWhite](https://user-images.githubusercontent.com/1300064/219605602-fe0a8bbd-4938-4f41-8a96-aaccc24cccbf.svg)](https://www.dropbox.com/s/sfy3e2etz72kwtk/Logo-WhiteRed-50.svg?dl=0) | [![WordmarkWhite](https://user-images.githubusercontent.com/1300064/219583292-bab3cddb-9366-48b7-bfe4-1fab210ad76b.svg)](https://www.dropbox.com/s/k4egh3vh0ba7ujt/Optimism-White-48.svg?dl=0) |
